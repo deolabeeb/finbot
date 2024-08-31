@@ -1,2 +1,2 @@
 # finbot
-Financial Acalytics chatbot
+Financial Analytics chatbot
