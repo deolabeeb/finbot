@@ -1,0 +1,9 @@
+langchain
+chainlit
+chromadb
+transformers
+tiktoken
+PyPDF2
+pypdf
+pandas
+tabulate

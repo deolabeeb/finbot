@@ -3,8 +3,3 @@
 .env
 __pycache__
 robot.jpeg
-app1.py
-app2.py
-app3.py
-chainlit.md
-requirements.txt
